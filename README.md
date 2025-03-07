@@ -1,6 +1,6 @@
 # AI-Powered-Medikit
 AI Powered MediKit - A Bundle Service specially made for Medical Niche
-<img src="Downloads/sample.gif" alt="UIGif" width="100%">
+<img src="datya/Downloads/sample.gif" alt="UIGif" width="100%">
 
 # Get Models
 ⚙️ Download models from [PLETHORA OF MODELS](https://drive.google.com/drive/folders/1_ruz4r9T4pgJNosVuI7wbODNqQPQ_Pt4?usp=sharing) and keep them all in "models" folder in pwd of main.py
