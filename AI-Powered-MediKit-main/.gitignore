@@ -1,0 +1,6 @@
+models/
+assets/bgframes/
+__pycache__
+medenv/
+data/fewshot/tablet/embeddings.pkl
+data/text-sim/question_embeddings.pkl

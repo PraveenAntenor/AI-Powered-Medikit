@@ -1,0 +1,19 @@
+{
+    "kidney": "Stone, Cyst, Tumor",
+    "ecg": "ECG Analysis",
+    "chatbot": "Get Instant Answers",
+    "lungs": "Corona | Pneumonia | TB",
+    "eye": "Eye Eye",
+    "bone": "Fractured or Not",
+    "tablet": "Fewshot Classification",
+    "heartbeat": "Heartbeat Analysis",
+    "bot": "Chatbot",
+    "colon": "Normal | Leison",
+    "blood": "Blood Cancer",
+    "oral": "Oral Cancer",
+    "brain": "Brain Tumor",
+    "breast": "Normal | Cancer",
+    "heart": "Cardiomeghaly Check",
+    "herb": "Herbical Solutions",
+    "chatbot": "Medical Bot"
+}

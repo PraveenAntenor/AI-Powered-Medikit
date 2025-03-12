@@ -1,0 +1,22 @@
+[
+    {
+        "img_path": "./assets/herbs/basil.jpg",
+        "name": "Basil",
+        "benefits": ["headache", "cold", "fever"]
+    },
+    {
+        "img_path": "./assets/herbs/neem.jpg",
+        "name": "Neem",
+        "benefits": ["heat", "skin-health", "anti-bacterial", "anti-viral"]
+    },
+    {
+        "img_path": "./assets/herbs/turmeric.jpg",
+        "name": "Turmeric",
+        "benefits": ["anti-inflammatory", "digestive health", "immune booster", "wound", "arthritis", "joint health", "cholesterol", "skin health"]
+    },
+    {
+        "img_path": "./assets/herbs/tridax.jpg",
+        "name": "Tridax Daisy",
+        "benefits": ["antioxidant", "wound healing", "Blood", "wound", "hurt", "scars"]
+    }
+]
